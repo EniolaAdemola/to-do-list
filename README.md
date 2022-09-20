@@ -2,7 +2,7 @@
 
 ## About The Project
 
-A [to do list web](https://salty-scrubland-23277.herokuapp.com/) app lets you write, organize, and reprioritize your tasks more efficiently. They also let you attach notes, links, etc to a task 
+A [to do list web](https://eniola-todolist.herokuapp.com/) app lets you write, organize, and reprioritize your tasks more efficiently. They also let you attach notes, links, etc to a task 
 In many ways, a good to-do app is the ultimate productivity app.
 
 ## Requirement
@@ -16,7 +16,7 @@ In many ways, a good to-do app is the ultimate productivity app.
 #### 3. All list are stored in an online database where you can come back to view it anytime you like (it's there forever unless deleated :) )
 #### 4. Once all item in the main page are deleted a default guide on how to use the app come's back immediately unless an item is listed on it.
 
-**Alright, enough talk! lets take a look at how the [to do list web](https://salty-scrubland-23277.herokuapp.com/) looks like...**
+**Alright, enough talk! lets take a look at how the [to do list web](https://eniola-todolist.herokuapp.com/) looks like...**
 
 ## Landing Page
 ![image](https://user-images.githubusercontent.com/107508295/181278279-3519610c-d6de-428f-9d5e-3c28f13988cd.png)
@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/107508295/181375716-19dd2acd-9c5c-4eae
 
 
 Thanks! if you feel there's anything that can be done to improve the project kindly reach out to me below,
-to see the project [click me](https://salty-scrubland-23277.herokuapp.com/)
+to see the project [click me](https://eniola-todolist.herokuapp.com//)
 
 <!-- CONTACT -->
 ## Contact
