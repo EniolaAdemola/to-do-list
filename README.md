@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/107508295/181375716-19dd2acd-9c5c-4eae
 
 
 Thanks! if you feel there's anything that can be done to improve the project kindly reach out to me below,
-to see the project [click me](https://eniola-todolist.herokuapp.com//)
+to see the project [click me](https://eniola-todolist.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
